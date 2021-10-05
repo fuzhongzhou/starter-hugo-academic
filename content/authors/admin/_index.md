@@ -2,7 +2,11 @@
 title: Fuzhong Zhou
 role: PhD student in operation research at IEOR department, Columbia University
 bio: ""
-interests: [Mean-Field Games, Stochastic Control, Stochastic Analysis,  Mathematical Finance]
+interests:
+  - Mean-Field Games
+  - Stochastic Control
+  - Stochastic Analysis
+  - Mathematical Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,3 +40,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+My name is Fuzhong Zhou and I am currently a first year PhD student in operation research at IEOR department, Columbia University.
