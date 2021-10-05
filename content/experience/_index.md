@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Experience
 cms_exclude: true
 
 # View.
@@ -15,8 +15,8 @@ header:
   image: ""
 
 main:
-  - name: Talks
-    url: '#talks'
+  - name: Industrial Experience
+    url: '#industry'
     weight: 30
 ---
 
