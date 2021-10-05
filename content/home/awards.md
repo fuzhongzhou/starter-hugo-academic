@@ -1,5 +1,5 @@
 ---
-widget: awards
+widget: post
 widget_id: awards
 headless: true
 weight: 50
