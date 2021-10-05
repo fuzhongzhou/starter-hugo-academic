@@ -1,6 +1,6 @@
 ---
 title: Fuzhong Zhou
-role: PhD student in operation research at IEOR department, Columbia University
+role: PhD student in operation research at IEOR department
 bio: ""
 interests:
   - Mean-Field Games
