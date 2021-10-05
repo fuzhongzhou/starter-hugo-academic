@@ -1,14 +1,10 @@
 ---
 widget: awards
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: awards
 headless: true
-
-# Order that this section appears on the page.
 weight: 50
+title: Honors and Awards
+active: true
 ---
 
 - 111
