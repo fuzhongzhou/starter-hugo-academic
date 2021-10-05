@@ -25,13 +25,13 @@ education:
   courses:
     - course: PhD, Operation research
       institution: Columbia University
-      year: 2026
+      year: 2021-2026
     - course: MSc, Computational Finance
       institution: Carnegie Mellon University
-      year: 2020
+      year: 2019-2020
     - course: BSc, Applied Mathematics
       institution: Central University of Finance and Economics
-      year: 2019
+      year: 2015-2019
 email: ""
 superuser: true
 highlight_name: true
