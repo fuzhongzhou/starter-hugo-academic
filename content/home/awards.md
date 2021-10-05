@@ -1,5 +1,5 @@
 ---
-widget: post
+title: awards
 headless: true
 weight: 50
 title: Honors and Awards
