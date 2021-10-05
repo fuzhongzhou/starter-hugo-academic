@@ -14,7 +14,7 @@ main:
     url: 'teaching/'
     weight: 40
   - name: Experience
-    url: '#experience'
+    url: 'experience/'
     weight: 45
   - name: "Awards"
     url: '#awards'
