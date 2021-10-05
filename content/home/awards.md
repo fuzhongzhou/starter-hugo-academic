@@ -1,6 +1,6 @@
 ---
 widget: post
-widget_id: awards
+widget_id: recent-posts
 headless: true
 weight: 50
 title: Honors and Awards
