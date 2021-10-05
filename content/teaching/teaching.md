@@ -1,4 +1,5 @@
 ---
+title: Teaching
 widget: pages
 
 # This file represents a page section.
