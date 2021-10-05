@@ -16,6 +16,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
+  - name: Experience
+    url: '#experience'
+    weight: 45
   - name: Awards
     url: '#awards'
     weight: 50
