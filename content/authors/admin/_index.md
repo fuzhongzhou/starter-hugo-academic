@@ -2,7 +2,8 @@
 title: Fuzhong Zhou
 role: PhD student in operation research at IEOR department, Columbia University
 bio: ""
-interests: []
+interests:
+  - stochastic
 social:
   - icon: envelope
     icon_pack: fas
