@@ -1,3 +1,4 @@
+---
 widget: awards
 
 # Activate this widget? true/false
@@ -8,6 +9,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 50
+---
 
 - 111
 - 222
