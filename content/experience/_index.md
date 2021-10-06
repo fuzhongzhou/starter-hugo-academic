@@ -8,7 +8,7 @@ type: widget_page
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-# view: 4
+view: 3
 
 headless: true
 # Optional header image (relative to `static/media/` folder).
