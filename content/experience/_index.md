@@ -16,9 +16,11 @@ header:
   caption: ""
   image: ""
 
-main:
-  - name: Industrial Experience
-    url: '#industry'
-    weight: 30
+- name: Industrial Experience
+  url: '#industry'
+  weight: 30
+  
 ---
+
+
 
