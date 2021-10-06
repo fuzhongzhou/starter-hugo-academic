@@ -22,8 +22,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 130
-  - name: homecopy
-    url: 'homecopy/'
+  - name: post
+    url: 'post/'
     weight: 130
 
 # Link to a PDF of your resume/CV from the menu.
