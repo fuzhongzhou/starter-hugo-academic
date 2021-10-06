@@ -1,6 +1,6 @@
 ---
 title: Experience
-cms_exclude: true
+# cms_exclude: true
 type: widget_page
 
 # View.
@@ -15,11 +15,6 @@ headless: true
 header:
   caption: ""
   image: ""
-
-- name: Industrial Experience
-  url: '#industry'
-  weight: 30
-  
 ---
 
 
